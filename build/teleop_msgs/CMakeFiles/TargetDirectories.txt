@@ -1,0 +1,9 @@
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/install/strip.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/install/local.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/install.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/list_install_components.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/rebuild_cache.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/edit_cache.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/test.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/teleop_msgs_uninstall.dir
+/home/alex/tritonai/software_intro_task/build/teleop_msgs/CMakeFiles/uninstall.dir

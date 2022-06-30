@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/tritonai/software_intro_task/teleop_cpp/include/teleop_cpp/teleop_cpp.hpp
+teleop_cpp/visibility_control.hpp
+-
+cstdint
+-
+
+/home/alex/tritonai/software_intro_task/teleop_cpp/include/teleop_cpp/visibility_control.hpp
+
+/home/alex/tritonai/software_intro_task/teleop_cpp/src/teleop_cpp.cpp
+teleop_cpp/teleop_cpp.hpp
+/home/alex/tritonai/software_intro_task/teleop_cpp/src/teleop_cpp/teleop_cpp.hpp
+iostream
+-
+

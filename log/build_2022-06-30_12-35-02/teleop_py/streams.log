@@ -1,0 +1,22 @@
+[0.460s] Invoking command in '/home/alex/tritonai/software_intro_task/teleop_py': PYTHONPATH=/home/alex/tritonai/software_intro_task/build/teleop_py/prefix_override:/home/alex/tritonai/software_intro_task/install/teleop_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/teleop_py build --build-base /home/alex/tritonai/software_intro_task/build/teleop_py/build install --record /home/alex/tritonai/software_intro_task/build/teleop_py/install.log --single-version-externally-managed
+[0.611s] running egg_info
+[0.611s] writing ../build/teleop_py/teleop_py.egg-info/PKG-INFO
+[0.612s] writing dependency_links to ../build/teleop_py/teleop_py.egg-info/dependency_links.txt
+[0.612s] writing entry points to ../build/teleop_py/teleop_py.egg-info/entry_points.txt
+[0.612s] writing requirements to ../build/teleop_py/teleop_py.egg-info/requires.txt
+[0.612s] writing top-level names to ../build/teleop_py/teleop_py.egg-info/top_level.txt
+[0.635s] reading manifest file '../build/teleop_py/teleop_py.egg-info/SOURCES.txt'
+[0.636s] writing manifest file '../build/teleop_py/teleop_py.egg-info/SOURCES.txt'
+[0.636s] running build
+[0.636s] running build_py
+[0.636s] running install
+[0.636s] running install_lib
+[0.637s] running install_data
+[0.638s] copying param/teleop_py.yaml -> /home/alex/tritonai/software_intro_task/install/teleop_py/share/teleop_py/param
+[0.638s] running install_egg_info
+[0.639s] removing '/home/alex/tritonai/software_intro_task/install/teleop_py/lib/python3.8/site-packages/teleop_py-1.0.0-py3.8.egg-info' (and everything under it)
+[0.639s] Copying ../build/teleop_py/teleop_py.egg-info to /home/alex/tritonai/software_intro_task/install/teleop_py/lib/python3.8/site-packages/teleop_py-1.0.0-py3.8.egg-info
+[0.640s] running install_scripts
+[0.651s] Installing teleop_py_node_exe script to /home/alex/tritonai/software_intro_task/install/teleop_py/lib/teleop_py
+[0.651s] writing list of installed files to '/home/alex/tritonai/software_intro_task/build/teleop_py/install.log'
+[0.663s] Invoked command in '/home/alex/tritonai/software_intro_task/teleop_py' returned '0': PYTHONPATH=/home/alex/tritonai/software_intro_task/build/teleop_py/prefix_override:/home/alex/tritonai/software_intro_task/install/teleop_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/teleop_py build --build-base /home/alex/tritonai/software_intro_task/build/teleop_py/build install --record /home/alex/tritonai/software_intro_task/build/teleop_py/install.log --single-version-externally-managed

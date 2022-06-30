@@ -1,0 +1,55 @@
+[0.000000] (-) TimerEvent: {}
+[0.000567] (teleop_py) JobQueued: {'identifier': 'teleop_py', 'dependencies': OrderedDict()}
+[0.000598] (teleop_py) JobStarted: {'identifier': 'teleop_py'}
+[0.100081] (-) TimerEvent: {}
+[0.200372] (-) TimerEvent: {}
+[0.300617] (-) TimerEvent: {}
+[0.400818] (-) TimerEvent: {}
+[0.437714] (teleop_py) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', 'build/teleop_py', 'build', '--build-base', '/home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build', 'install', '--record', '/home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/install.log', '--single-version-externally-managed'], 'cwd': '/home/alex/tritonai/software_intro_task/teleop_py', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'alex', 'SSH_AGENT_PID': '1836', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib', 'HOME': '/home/alex', 'OLDPWD': '/home/alex/tritonai/software_intro_task', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'MANAGERPID': '1659', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'ROS_DISTRO': 'galactic', 'LOGNAME': 'alex', 'JOURNAL_STREAM': '8:48765', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'alex', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/galactic/bin:/home/alex/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/deeplearner:@/tmp/.ICE-unix/1871,unix/deeplearner:/tmp/.ICE-unix/1871', 'INVOCATION_ID': '6adeccf5c0f04bb790242d4687ba6dfe', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/70ff094f_2320_45cf_a9a9_4e3d140b4ea8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.167', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/galactic', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/prefix_override:/home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003'}, 'shell': False}
+[0.500944] (-) TimerEvent: {}
+[0.600424] (teleop_py) StdoutLine: {'line': b'running egg_info\n'}
+[0.600776] (teleop_py) StdoutLine: {'line': b'creating build/teleop_py/teleop_py.egg-info\n'}
+[0.600888] (teleop_py) StdoutLine: {'line': b'writing build/teleop_py/teleop_py.egg-info/PKG-INFO\n'}
+[0.600943] (-) TimerEvent: {}
+[0.601055] (teleop_py) StdoutLine: {'line': b'writing dependency_links to build/teleop_py/teleop_py.egg-info/dependency_links.txt\n'}
+[0.601210] (teleop_py) StdoutLine: {'line': b'writing entry points to build/teleop_py/teleop_py.egg-info/entry_points.txt\n'}
+[0.601282] (teleop_py) StdoutLine: {'line': b'writing requirements to build/teleop_py/teleop_py.egg-info/requires.txt\n'}
+[0.601334] (teleop_py) StdoutLine: {'line': b'writing top-level names to build/teleop_py/teleop_py.egg-info/top_level.txt\n'}
+[0.601999] (teleop_py) StdoutLine: {'line': b"writing manifest file 'build/teleop_py/teleop_py.egg-info/SOURCES.txt'\n"}
+[0.625621] (teleop_py) StdoutLine: {'line': b"reading manifest file 'build/teleop_py/teleop_py.egg-info/SOURCES.txt'\n"}
+[0.626091] (teleop_py) StdoutLine: {'line': b"writing manifest file 'build/teleop_py/teleop_py.egg-info/SOURCES.txt'\n"}
+[0.626212] (teleop_py) StdoutLine: {'line': b'running build\n'}
+[0.626363] (teleop_py) StdoutLine: {'line': b'running build_py\n'}
+[0.626431] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build\n'}
+[0.626488] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib\n'}
+[0.626642] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib/teleop_py\n'}
+[0.626715] (teleop_py) StdoutLine: {'line': b'copying teleop_py/__init__.py -> /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib/teleop_py\n'}
+[0.626775] (teleop_py) StdoutLine: {'line': b'copying teleop_py/teleop_py_node.py -> /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib/teleop_py\n'}
+[0.626824] (teleop_py) StdoutLine: {'line': b'copying teleop_py/teleop_py.py -> /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib/teleop_py\n'}
+[0.626871] (teleop_py) StdoutLine: {'line': b'running install\n'}
+[0.627150] (teleop_py) StdoutLine: {'line': b'running install_lib\n'}
+[0.627853] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py\n'}
+[0.628001] (teleop_py) StdoutLine: {'line': b'copying /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib/teleop_py/__init__.py -> /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py\n'}
+[0.628138] (teleop_py) StdoutLine: {'line': b'copying /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib/teleop_py/teleop_py_node.py -> /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py\n'}
+[0.628198] (teleop_py) StdoutLine: {'line': b'copying /home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/build/lib/teleop_py/teleop_py.py -> /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py\n'}
+[0.628363] (teleop_py) StdoutLine: {'line': b'byte-compiling /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py/__init__.py to __init__.cpython-38.pyc\n'}
+[0.629147] (teleop_py) StdoutLine: {'line': b'byte-compiling /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py/teleop_py_node.py to teleop_py_node.cpython-38.pyc\n'}
+[0.629297] (teleop_py) StdoutLine: {'line': b'byte-compiling /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py/teleop_py.py to teleop_py.cpython-38.pyc\n'}
+[0.629441] (teleop_py) StdoutLine: {'line': b'running install_data\n'}
+[0.629810] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/ament_index\n'}
+[0.629901] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/ament_index/resource_index\n'}
+[0.629952] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/ament_index/resource_index/packages\n'}
+[0.630011] (teleop_py) StdoutLine: {'line': b'copying resource/teleop_py -> /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/ament_index/resource_index/packages\n'}
+[0.630071] (teleop_py) StdoutLine: {'line': b'copying package.xml -> /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/teleop_py\n'}
+[0.630152] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/teleop_py/launch\n'}
+[0.630221] (teleop_py) StdoutLine: {'line': b'copying launch/teleop_py.launch.py -> /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/teleop_py/launch\n'}
+[0.630269] (teleop_py) StdoutLine: {'line': b'creating /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/teleop_py/param\n'}
+[0.630315] (teleop_py) StdoutLine: {'line': b'copying param/teleop_py.yaml -> /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/share/teleop_py/param\n'}
+[0.630361] (teleop_py) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.631398] (teleop_py) StdoutLine: {'line': b'Copying build/teleop_py/teleop_py.egg-info to /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/python3.8/site-packages/teleop_py-1.0.0-py3.8.egg-info\n'}
+[0.631932] (teleop_py) StdoutLine: {'line': b'running install_scripts\n'}
+[0.643975] (teleop_py) StdoutLine: {'line': b'Installing teleop_py_node_exe script to /home/alex/tritonai/software_intro_task/teleop_py/install/teleop_py/lib/teleop_py\n'}
+[0.644231] (teleop_py) StdoutLine: {'line': b"writing list of installed files to '/home/alex/tritonai/software_intro_task/teleop_py/build/teleop_py/install.log'\n"}
+[0.660329] (teleop_py) CommandEnded: {'returncode': 0}
+[0.667896] (teleop_py) JobEnded: {'identifier': 'teleop_py', 'rc': 0}
+[0.668375] (-) EventReactorShutdown: {}

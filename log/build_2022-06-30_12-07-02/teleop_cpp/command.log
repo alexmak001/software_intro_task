@@ -1,0 +1,6 @@
+Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alex/tritonai/software_intro_task/teleop_cpp -DCMAKE_INSTALL_PREFIX=/home/alex/tritonai/software_intro_task/install/teleop_cpp
+Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alex/tritonai/software_intro_task/teleop_cpp -DCMAKE_INSTALL_PREFIX=/home/alex/tritonai/software_intro_task/install/teleop_cpp
+Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alex/tritonai/software_intro_task/build/teleop_cpp -- -j8 -l8
+Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alex/tritonai/software_intro_task/build/teleop_cpp -- -j8 -l8
+Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alex/tritonai/software_intro_task/build/teleop_cpp
+Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alex/tritonai/software_intro_task/build/teleop_cpp

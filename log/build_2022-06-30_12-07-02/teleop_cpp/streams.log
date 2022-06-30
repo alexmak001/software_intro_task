@@ -1,0 +1,92 @@
+[0.019s] Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alex/tritonai/software_intro_task/teleop_cpp -DCMAKE_INSTALL_PREFIX=/home/alex/tritonai/software_intro_task/install/teleop_cpp
+[0.215s] -- The C compiler identification is GNU 9.4.0
+[0.356s] -- The CXX compiler identification is GNU 9.4.0
+[0.368s] -- Check for working C compiler: /usr/bin/cc
+[0.421s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.422s] -- Detecting C compiler ABI info
+[0.466s] -- Detecting C compiler ABI info - done
+[0.475s] -- Detecting C compile features
+[0.475s] -- Detecting C compile features - done
+[0.478s] -- Check for working CXX compiler: /usr/bin/c++
+[0.526s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.527s] -- Detecting CXX compiler ABI info
+[0.577s] -- Detecting CXX compiler ABI info - done
+[0.586s] -- Detecting CXX compile features
+[0.586s] -- Detecting CXX compile features - done
+[0.588s] -- Found ament_cmake_auto: 1.1.5 (/opt/ros/galactic/share/ament_cmake_auto/cmake)
+[0.611s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.611s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.769s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.776s] -- Found rosidl_adapter: 2.2.2 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[0.831s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.851s] -- Found FastRTPS: /opt/ros/galactic/include  
+[0.912s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.966s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[0.969s] -- Found rmw_cyclonedds_cpp: 0.22.5 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[0.986s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.988s] -- Looking for pthread.h
+[1.062s] -- Looking for pthread.h - found
+[1.062s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.107s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.108s] -- Looking for pthread_create in pthreads
+[1.144s] -- Looking for pthread_create in pthreads - not found
+[1.144s] -- Looking for pthread_create in pthread
+[1.187s] -- Looking for pthread_create in pthread - found
+[1.187s] -- Found Threads: TRUE  
+[1.362s] -- Configuring done
+[1.394s] -- Generating done
+[1.395s] -- Build files have been written to: /home/alex/tritonai/software_intro_task/build/teleop_cpp
+[1.400s] Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alex/tritonai/software_intro_task/teleop_cpp -DCMAKE_INSTALL_PREFIX=/home/alex/tritonai/software_intro_task/install/teleop_cpp
+[1.402s] Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alex/tritonai/software_intro_task/build/teleop_cpp -- -j8 -l8
+[1.426s] [35m[1mScanning dependencies of target teleop_cpp[0m
+[1.426s] [35m[1mScanning dependencies of target teleop_cpp_node_exe[0m
+[1.434s] [ 16%] [32mBuilding CXX object CMakeFiles/teleop_cpp.dir/src/teleop_cpp.cpp.o[0m
+[1.520s] [ 33%] [32mBuilding CXX object CMakeFiles/teleop_cpp_node_exe.dir/rclcpp_components/node_main_teleop_cpp_node_exe.cpp.o[0m
+[1.661s] [ 50%] [32m[1mLinking CXX shared library libteleop_cpp.so[0m
+[1.749s] [ 50%] Built target teleop_cpp
+[1.755s] [35m[1mScanning dependencies of target teleop_cpp_node[0m
+[1.779s] [ 66%] [32mBuilding CXX object CMakeFiles/teleop_cpp_node.dir/src/teleop_cpp_node.cpp.o[0m
+[3.368s] [ 83%] [32m[1mLinking CXX executable teleop_cpp_node_exe[0m
+[3.453s] [ 83%] Built target teleop_cpp_node_exe
+[3.471s] [100%] [32m[1mLinking CXX shared library libteleop_cpp_node.so[0m
+[3.539s] [100%] Built target teleop_cpp_node
+[3.546s] Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alex/tritonai/software_intro_task/build/teleop_cpp -- -j8 -l8
+[3.562s] Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alex/tritonai/software_intro_task/build/teleop_cpp
+[3.567s] -- Install configuration: ""
+[3.567s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/lib/teleop_cpp/teleop_cpp_node_exe
+[3.567s] -- Set runtime path of "/home/alex/tritonai/software_intro_task/install/teleop_cpp/lib/teleop_cpp/teleop_cpp_node_exe" to ""
+[3.567s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/include
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/include/teleop_cpp
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/include/teleop_cpp/visibility_control.hpp
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/include/teleop_cpp/teleop_cpp_node.hpp
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/include/teleop_cpp/teleop_cpp.hpp
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/environment/library_path.sh
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/environment/library_path.dsv
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/lib/libteleop_cpp.so
+[3.568s] -- Set runtime path of "/home/alex/tritonai/software_intro_task/install/teleop_cpp/lib/libteleop_cpp.so" to ""
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/lib/libteleop_cpp_node.so
+[3.568s] -- Set runtime path of "/home/alex/tritonai/software_intro_task/install/teleop_cpp/lib/libteleop_cpp_node.so" to ""
+[3.568s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/param
+[3.569s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/param/teleop_cpp.yaml
+[3.569s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/launch
+[3.569s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/launch/teleop_cpp.launch.py
+[3.569s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/ament_index/resource_index/package_run_dependencies/teleop_cpp
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/ament_index/resource_index/parent_prefix_path/teleop_cpp
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/environment/ament_prefix_path.sh
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/environment/ament_prefix_path.dsv
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/environment/path.sh
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/environment/path.dsv
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/local_setup.bash
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/local_setup.sh
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/local_setup.zsh
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/local_setup.dsv
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/package.dsv
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/ament_index/resource_index/packages/teleop_cpp
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/ament_index/resource_index/rclcpp_components/teleop_cpp
+[3.570s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.571s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.571s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/cmake/ament_cmake_export_libraries-extras.cmake
+[3.571s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/cmake/teleop_cppConfig.cmake
+[3.571s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/cmake/teleop_cppConfig-version.cmake
+[3.571s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_cpp/share/teleop_cpp/package.xml
+[3.573s] Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alex/tritonai/software_intro_task/build/teleop_cpp

@@ -1,0 +1,21 @@
+[0.020s] Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alex/tritonai/software_intro_task/install/teleop_py:/opt/ros/galactic /usr/bin/cmake --build /home/alex/tritonai/software_intro_task/build/teleop_msgs -- -j8 -l8
+[0.190s] Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alex/tritonai/software_intro_task/install/teleop_py:/opt/ros/galactic /usr/bin/cmake --build /home/alex/tritonai/software_intro_task/build/teleop_msgs -- -j8 -l8
+[0.210s] Invoking command in '/home/alex/tritonai/software_intro_task/build/teleop_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alex/tritonai/software_intro_task/install/teleop_py:/opt/ros/galactic /usr/bin/cmake --install /home/alex/tritonai/software_intro_task/build/teleop_msgs
+[0.215s] -- Install configuration: ""
+[0.215s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/ament_index/resource_index/package_run_dependencies/teleop_msgs
+[0.215s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/ament_index/resource_index/parent_prefix_path/teleop_msgs
+[0.215s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/ament_prefix_path.sh
+[0.215s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/ament_prefix_path.dsv
+[0.215s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/path.sh
+[0.215s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/path.dsv
+[0.215s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.bash
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.sh
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.zsh
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.dsv
+[0.216s] -- Installing: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/package.dsv
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/ament_index/resource_index/packages/teleop_msgs
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/cmake/teleop_msgsConfig.cmake
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/cmake/teleop_msgsConfig-version.cmake
+[0.216s] -- Up-to-date: /home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/package.xml
+[0.217s] Invoked command in '/home/alex/tritonai/software_intro_task/build/teleop_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alex/tritonai/software_intro_task/install/teleop_py:/opt/ros/galactic /usr/bin/cmake --install /home/alex/tritonai/software_intro_task/build/teleop_msgs

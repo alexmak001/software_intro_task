@@ -1,0 +1,3 @@
+[console_scripts]
+teleop_py_node_exe = teleop_py.teleop_py_node:main
+

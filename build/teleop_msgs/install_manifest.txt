@@ -1,0 +1,16 @@
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/ament_index/resource_index/package_run_dependencies/teleop_msgs
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/ament_index/resource_index/parent_prefix_path/teleop_msgs
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/ament_prefix_path.sh
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/ament_prefix_path.dsv
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/path.sh
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/environment/path.dsv
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.bash
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.sh
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.zsh
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/local_setup.dsv
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/package.dsv
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/ament_index/resource_index/packages/teleop_msgs
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/cmake/teleop_msgsConfig.cmake
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/cmake/teleop_msgsConfig-version.cmake
+/home/alex/tritonai/software_intro_task/install/teleop_msgs/share/teleop_msgs/package.xml

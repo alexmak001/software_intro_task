@@ -1,0 +1,12 @@
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/install/strip.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/install/local.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/install.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/list_install_components.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/rebuild_cache.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/edit_cache.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/test.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/teleop_cpp_node.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/teleop_cpp_node_exe.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/teleop_cpp.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/teleop_cpp_uninstall.dir
+/home/alex/tritonai/software_intro_task/build/teleop_cpp/CMakeFiles/uninstall.dir
